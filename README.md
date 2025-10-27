@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phine67
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning business information technology
-- 💞️ I’m looking to collaborate on 
+- 🌱 I'm a graduate- business information technology, Upper Class Division
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me Email: saraphinemuigai@gmail.com
 
 <!---
